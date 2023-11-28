@@ -1,0 +1,96 @@
+body{
+background-image: url(copia.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+.contenitore{
+width: 800px;
+margin: auto;
+background-color: rgba(0, 0, 0, 0.5);
+
+
+
+
+}
+
+
+
+.logo{
+  width: 150px;
+  margin-top: 10%;
+  margin-left: 40%;
+
+}
+
+.titolo{
+  color: green;
+  padding-left: 20%;
+
+
+}
+
+.bottone{
+padding-left: 30%;
+background-color: green;
+height: 40px;
+padding-top: 0.9%;
+
+
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+.ciao{
+  color: white;
+
+}
+
+.insieme{
+  display:inline-block;
+
+}
+
+.insieme1{
+  display: inline-block;
+}
+
+.primo{
+  color: white;
+}
+
+.primo1{
+  background-color: orange;
+  width: 130%;
+  height: 30%;
+  color: rgba(0, 0, 0, 0.0);
+  border-radius: 5px;
+
+}
+
+
+
+
+
+.secondo3{
+  background-color: green;
+  width: 200%;
+  height: 30%;
+  color: rgba(0, 0, 0, 0.0);
+  border-radius: 5px;
+}
+
+
+.secondo4{
+  background-color: red;
+  width: 50%;
+  height: 30%;
+  color: rgba(0, 0, 0, 0.0);
+  border-radius: 5px;
+}
